@@ -1,1 +1,9 @@
-# iOS_2ndClass_HKLee
+# FAST CAMPUS iOS 개발 school 2기
+
+## CLASS
+
+## HOMEWORK
+
+## REFERENCE
+
+
