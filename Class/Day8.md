@@ -38,7 +38,7 @@
 
 @property id propertyName;
 
-@- (id) methodName;
+- (id) methodName;
 
 @end
 ```
