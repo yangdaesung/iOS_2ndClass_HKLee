@@ -2,11 +2,10 @@
 
 > Xcode 구조 및 사용법 익히기
 
-> macOS – command line tamplate 으로 새 프로젝트 만들기
+> class code 작성 & property와 method에의 이해 및 적용
 
-> class code 작성
+> 객체지향프로그래밍의 특성 중 추상화 이해
 
-> property와 method에의 이해 및 적용
 
 
 
