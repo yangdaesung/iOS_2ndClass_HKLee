@@ -23,11 +23,11 @@
 #### 프로퍼티와 메서드
 *프로퍼티 Property*
 - 객체가 가질 수 있는 특징, 상태 등의 값
-- 정의 : @property <data type> <property name>;
+- 정의 : @property 'data type' 'property name';
 
 *메서드 Method*
 - 객체가 수행할 수 있는 동작 또는 기능
-- 정의 : - (<반환타입>) <method name>;
+- 정의 : - (<반환타입>) 'method name';
 
 ```example
 #import <Foundation/Foundation.h>
