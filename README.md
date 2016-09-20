@@ -2,7 +2,7 @@
 ## iOS 개발 school 2기
 
 
-### CLASS
+### Class
 > Learning Objective
 
 > Theory
@@ -12,23 +12,30 @@
 * [ClassDay9] - 클래스 객체로 실체화, 기능구현(프로퍼티 접근, 메서드 구현), 주석, 퀵헬프
 
 
-### PRODUCTS
+### Products
+> Coding Files
+
+
 * [ProductsDay8] - 클래스 코드 작성 및 주석달기
 * [ProductsDay9] - 클래스 기능 구현 및 주석과 퀵헬프 남기기
 
 
-### HOMEWORK
+### Homework
 
 
-### REFERENCE
+### Reference
+> Background Information
+
+
 * [ReferenceDay8] - 객체지향프로그래밍의 특징
-* [ReferenceDay9] - Quick Help
+* [ReferenceDay9] - Coding Guidlines & Quick Help
 
 
 [ClassDay8]: <https://github.com/HeekyeongLee/iOS_2ndClass_HKLee/blob/master/Class/Day8.md>
 [ClassDay9]: <https://github.com/HeekyeongLee/iOS_2ndClass_HKLee/blob/master/Class/Day9.md>
 
-[ProductsDay8]: <https://github.com/HeekyeongLee/iOS_2ndClass_HKLee/blob/master/Products/StructurePractice.zip>
+[ProductsDay8]: <https://github.com/HeekyeongLee/iOS_2ndClass_HKLee/blob/master/Products/PracticeDay8.zip>
+[ProductsDay9]: <https://github.com/HeekyeongLee/iOS_2ndClass_HKLee/blob/master/Products/PracticeDay9.zip>
 
 [ReferenceDay8]: <https://github.com/HeekyeongLee/iOS_2ndClass_HKLee/blob/master/Reference/Day8.md>
 [ReferenceDay9]: <https://github.com/HeekyeongLee/iOS_2ndClass_HKLee/blob/master/Reference/Day9.md> 
